@@ -1,4 +1,4 @@
-# Notepad++ Markdown (md) language for Zenburn or dark themes
+# Notepad++ Markdown (md) language for VS2019 dark themes
 
 ## Preview
 ![Preview Screenshot](/Preview.png)
